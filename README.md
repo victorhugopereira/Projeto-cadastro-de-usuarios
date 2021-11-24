@@ -1,8 +1,8 @@
 # Projeto Cadastro de usuarios
-Projeto usando JSX
+Projeto usando React
 
 ## Projeto
-Usei a linguagem JSX para apreder mais sobre a liguagem e suas regras
+Usei a linguagem React para apreder mais sobre a liguagem e suas regras
 
 ## Tecnologias Utilizadas
 
