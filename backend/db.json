@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "victor hugo",
+      "email": "victorhugo.p@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "maria victória",
+      "email": "mariavick@gmail.com"
+    },
+    {
+      "name": "teste 1",
+      "email": "testandoOCadastro@usuarios.com.br",
+      "id": 3
+    },
+    {
+      "name": "teste 2",
+      "email": "testandoNovamente@Teste2.com",
+      "id": 4
+    },
+    {
+      "name": "Teste 3 false",
+      "email": "fazendoalteração@(alteração-false).com.br",
+      "id": 5
+    },
+    {
+      "name": "mths neves",
+      "email": "melhorAmigodomundo@gmail.com.br",
+      "id": 6
+    }
+  ]
+}
