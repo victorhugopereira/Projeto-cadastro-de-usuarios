@@ -26,5 +26,9 @@ Usei a linguagem JSX para apreder mais sobre a liguagem e suas regras
 
 obs: o backend é só pra iniciar o banco de dados
 
+## Imagens representativas
 
+![alt text](https://github.com/Victor-hugoDK/Projeto-cadastro-de-usuarios/blob/main/Captura%20de%20tela%20de%202021-11-24%2014-53-31.png)
+
+![alt text](https://github.com/Victor-hugoDK/Projeto-cadastro-de-usuarios/blob/main/Captura%20de%20tela%20de%202021-11-24%2014-53-24.png)
 
